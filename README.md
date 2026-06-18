@@ -3,7 +3,7 @@
 AI crop disease detection for **corn and wheat fungal diseases**. FoliaNet takes a
 crop image plus location, date, and environmental/satellite context and returns a
 **risk score**, a **confidence level**, the **likely stressor**, and a
-**recommended next action** — in a single call.
+**recommended next action** in a single call.
 
 ---
 

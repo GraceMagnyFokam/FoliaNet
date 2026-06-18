@@ -5,7 +5,7 @@ crop image plus location, date, and environmental/satellite context and returns 
 **risk score**, a **confidence level**, the **likely stressor**, and a
 **recommended next action** in a single call.
 
-*Original codebase was developed in September 2023. The reformatted version was published in June 2026. *
+*/ Original codebase was developed in September 2023. The reformatted version was published in June 2026. /*
 
 ---
 

@@ -1,4 +1,4 @@
-# FoliaNet 🌽🌾
+# FoliaNet v1
 
 AI crop disease detection for **corn and wheat fungal diseases**. FoliaNet takes a
 crop image plus location, date, and environmental/satellite context and returns a
